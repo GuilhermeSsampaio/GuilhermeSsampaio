@@ -17,6 +17,5 @@
 <img width = "60" heigth = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img width = "60" heigth = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 
-![Snake animation](https://github.com/GuilhermeSsampaio/GuilhermeSsampaio/blob/output/github-contribution-grid-snake.svg)
 
 
