@@ -1,4 +1,4 @@
-##Olá! Sou o Guilherme Sampaio
+## Olá! Sou o Guilherme Sampaio
 
 - 🌱 Aprendendo C, Native e GML
 
@@ -8,4 +8,15 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GuilhermeSsampaio&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
+<br>
+<br>
+
+<a href = "#"><img width = "60" heigth = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
+<img width = "60" heigth = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img width = "60" heigth = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img width = "60" heigth = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img width = "60" heigth = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+
+![Snake animation](https://github.com/GuilhermeSsampaio/GuilhermeSsampaio/blob/output/github-contribution-grid-snake.svg)
+
 
