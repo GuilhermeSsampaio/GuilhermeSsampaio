@@ -1,6 +1,7 @@
-## Olá! Sou o Guilherme Sampaio
+## Olá! Me chamo Guilherme Sampaio
 
-- 🌱 Aprendendo C, Native, GML, Strapi e Docusaurus
+- Experiência em strapi e nextjs
+- Aprendendo C, python, Native e docker
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img  width = "400" align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeSsampaio&theme=radical&show_icons=" />
