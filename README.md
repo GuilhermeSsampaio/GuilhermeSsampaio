@@ -1,10 +1,19 @@
 ## Olá! Me chamo Guilherme Sampaio
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img  width = "400" align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeSsampaio&theme=radical&show_icons=" />
+  <img
+    width="400"
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=GuilhermeSsampaio&theme=radical&show_icons=true"
+  />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img width = "340"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GuilhermeSsampaio&layout=compact&langs_count=8&card_width=320&theme=radical" />
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img
+    width="340"
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSsampaio&layout=compact&langs_count=8&card_width=320&theme=radical"
+  />
 </a>
 <br>
 <br>
